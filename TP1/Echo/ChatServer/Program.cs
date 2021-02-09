@@ -36,6 +36,7 @@ namespace Echo
 
     public class handleClient
     {
+        static readonly string HTTP_ROOT = @"D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\www\pub";
         TcpClient clientSocket;
         public void startClient(TcpClient inClientSocket)
         {
@@ -52,12 +53,26 @@ namespace Echo
             BinaryReader reader = new BinaryReader(stream);
             BinaryWriter writer = new BinaryWriter(stream);
 
+
             while (true)
             {
 
                 string str = reader.ReadString();
-                Console.WriteLine(str);
-                writer.Write(str);
+                if (str.StartsWith("GET"))
+                {
+                    Console.WriteLine("Request : " + str);
+                    string[] tab = str.Split(" ");
+                    string requestPath = tab.FirstOrDefault(input => input.StartsWith('/'));
+                    requestPath = string.IsNullOrEmpty(requestPath) ? HTTP_ROOT + requestPath.Replace("/", "\\") : HTTP_ROOT + "\\index.html"; string response = "";
+                    // Open the file to read from.
+                    using (StreamReader sr = File.OpenText(requestPath))
+                    {
+                        response += "http/1.0 200 OK \n\n";
+                        response += sr.ReadToEnd();
+                    }
+                    Console.WriteLine("Response : " + response);
+                    writer.Write(response);
+                }
             }
         }
 
