@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 
 namespace BasicServerHTTPlistener
@@ -56,6 +57,9 @@ namespace BasicServerHTTPlistener
                 // Note: The GetContext method blocks while waiting for a request.
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
+
+                Header header = new Header((WebHeaderCollection)request.Headers);
+                Console.WriteLine(header);
 
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
