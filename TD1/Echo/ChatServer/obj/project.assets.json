@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatServer\\EchoServer.csproj",
+      "projectUniqueName": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
       "projectName": "EchoServer",
-      "projectPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatServer\\EchoServer.csproj",
+      "projectPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
       "packagesPath": "C:\\Users\\lrizz\\.nuget\\packages\\",
-      "outputPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatServer\\obj\\",
+      "outputPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

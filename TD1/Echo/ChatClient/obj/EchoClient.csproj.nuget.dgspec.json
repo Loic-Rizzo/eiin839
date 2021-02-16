@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj": {}
+    "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatClient\\EchoClient.csproj": {}
   },
   "projects": {
-    "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj": {
+    "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatClient\\EchoClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+        "projectUniqueName": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
         "projectName": "EchoClient",
-        "projectPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+        "projectPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
         "packagesPath": "C:\\Users\\lrizz\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TP1\\Echo\\ChatClient\\obj\\",
+        "outputPath": "D:\\Ecole\\SI4\\S8\\SOC\\TP\\eiin839\\TD1\\Echo\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
