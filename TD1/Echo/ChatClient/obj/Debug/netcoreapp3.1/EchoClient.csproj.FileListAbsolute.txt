@@ -36,3 +36,16 @@ A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\o
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.dll
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.exe
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.deps.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.dev.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.dll
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.pdb
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.csprojAssemblyReference.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfoInputs.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfo.cs
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.csproj.CoreCompileInputs.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.dll
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache
