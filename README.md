@@ -10,7 +10,7 @@ Note : If you need help forking or syncing your fork with the main repository, y
 
 # Rendu de TD 
 
-Les rendus de TD sont présent sur la branch main.
+Les rendus de TD sont présents sur la branch main.
 
 Rendu TD2 :
 - [TD2/HTTPListener](TD2/HttpListener/)
