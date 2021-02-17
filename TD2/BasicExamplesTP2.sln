@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalExeCall", "External
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebServerUrlParser", "BasicWebServer\BasicWebServerUrlParser.csproj", "{B6A28AAE-DA86-41D3-8A15-9B529A3AD71C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalMethod", "WebDynamic\ExternalMethod\ExternalMethod.csproj", "{AEEA0B85-7C7F-428D-96E5-19286496D5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBasicWebServer", "WebDynamic\MyBasicWebServer\MyBasicWebServer.csproj", "{7F81C15F-D9F2-468C-B8C0-5F292CA17722}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B6A28AAE-DA86-41D3-8A15-9B529A3AD71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A28AAE-DA86-41D3-8A15-9B529A3AD71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A28AAE-DA86-41D3-8A15-9B529A3AD71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEA0B85-7C7F-428D-96E5-19286496D5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEA0B85-7C7F-428D-96E5-19286496D5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEA0B85-7C7F-428D-96E5-19286496D5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEA0B85-7C7F-428D-96E5-19286496D5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F81C15F-D9F2-468C-B8C0-5F292CA17722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F81C15F-D9F2-468C-B8C0-5F292CA17722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F81C15F-D9F2-468C-B8C0-5F292CA17722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F81C15F-D9F2-468C-B8C0-5F292CA17722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

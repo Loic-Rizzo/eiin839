@@ -1,0 +1,13 @@
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\bin\Debug\netcoreapp3.1\MyBasicWebServer.exe
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\bin\Debug\netcoreapp3.1\MyBasicWebServer.deps.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\bin\Debug\netcoreapp3.1\MyBasicWebServer.runtimeconfig.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\bin\Debug\netcoreapp3.1\MyBasicWebServer.runtimeconfig.dev.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\bin\Debug\netcoreapp3.1\MyBasicWebServer.dll
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\bin\Debug\netcoreapp3.1\MyBasicWebServer.pdb
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.csprojAssemblyReference.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.AssemblyInfoInputs.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.AssemblyInfo.cs
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.csproj.CoreCompileInputs.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.dll
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.pdb
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\MyBasicWebServer\obj\Debug\netcoreapp3.1\MyBasicWebServer.genruntimeconfig.cache

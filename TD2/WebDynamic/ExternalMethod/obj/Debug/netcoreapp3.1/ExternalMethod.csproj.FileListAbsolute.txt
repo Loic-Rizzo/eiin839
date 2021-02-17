@@ -1,0 +1,13 @@
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\bin\Debug\netcoreapp3.1\ExternalMethod.exe
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\bin\Debug\netcoreapp3.1\ExternalMethod.deps.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\bin\Debug\netcoreapp3.1\ExternalMethod.runtimeconfig.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\bin\Debug\netcoreapp3.1\ExternalMethod.runtimeconfig.dev.json
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\bin\Debug\netcoreapp3.1\ExternalMethod.dll
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\bin\Debug\netcoreapp3.1\ExternalMethod.pdb
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.csprojAssemblyReference.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.AssemblyInfoInputs.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.AssemblyInfo.cs
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.csproj.CoreCompileInputs.cache
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.dll
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.pdb
+D:\Ecole\SI4\S8\SOC\TP\eiin839\TD2\WebDynamic\ExternalMethod\obj\Debug\netcoreapp3.1\ExternalMethod.genruntimeconfig.cache
