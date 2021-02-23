@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using Newtonsoft.Json;
+using System.Diagnostics;
 using System.IO;
 
 namespace MyBasicServer
@@ -35,6 +36,13 @@ namespace MyBasicServer
                     return result;
                 }
             }
+        }
+
+        public string Incr(string valeur)
+        {
+            int val = int.Parse(valeur) + 1;
+            string json = JsonConvert.SerializeObject(new { val = val , status = "OK" }) ;
+            return json;
         }
     }
 }

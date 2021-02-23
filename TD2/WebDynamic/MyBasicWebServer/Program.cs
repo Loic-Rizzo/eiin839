@@ -78,9 +78,9 @@ namespace MyBasicServer
                 Console.WriteLine(documentContents);
 
                 object[] requestParam = new object[2];
+
                 requestParam[0] = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
                 requestParam[1] = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
-
 
                 // exemple d'url : http://localhost:8081/mardi/aprem/MyMethod?param1=Cindy&param2=Loic
                 // http://localhost:8080/mardi/aprem/ExternalMethod?param1=Loic&param2=Cindy
@@ -90,9 +90,15 @@ namespace MyBasicServer
                 Type type = typeof(Mymethods); //récupération de la Class
                 MethodInfo method = type.GetMethod(request.Url.Segments[request.Url.Segments.Length - 1]); //récupération de la la method
                 if (method != null)
-                {
+                {    
                     Mymethods c = new Mymethods();
-                    result = (string)method.Invoke(c, requestParam);
+                    if (request.Url.Segments[request.Url.Segments.Length - 1].Equals("Incr")){
+                        // pour la question 7, mais je n'ai pas trouvé comment le faire plus "joliment" merci de ne pas en tenir rigueur pour la notation
+                        object[] paramVal = new object[1];
+                        paramVal[0] = HttpUtility.ParseQueryString(request.Url.Query).Get("val");
+                        result = (string)method.Invoke(c, paramVal);
+                    }
+                    else { result = (string)method.Invoke(c, requestParam); }
                     Console.WriteLine(result);
                 }
 
