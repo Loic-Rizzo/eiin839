@@ -20,6 +20,8 @@ namespace StationGPS
             Station station = getNerest(position, stations);
 
             Console.WriteLine("La station la plus proche est :" + station.name);
+
+            return station;
         }
 
         private static Station getNerest(GeoCoordinate position, List<Station> stations)
