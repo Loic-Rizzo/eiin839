@@ -55,13 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Connected Services\MathsOperations\item.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\MathsOperations\item1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\MathsOperations\MathsOperations.wsdl" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
@@ -76,6 +69,13 @@
     <None Include="Connected Services\MathsOperations\configuration.svcinfo" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Connected Services\MathsOperations\item2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\MathsOperations\item21.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\MathsOperations\MathsOperations1.wsdl" />
     <None Include="Connected Services\MathsOperations\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
