@@ -1,7 +1,9 @@
 ﻿using Client.MathsOperations;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,6 +29,19 @@ namespace Client
             MathsOperationsClient mathsOperationsClient_3 = new MathsOperationsClient("SoapEndPnt3");
             simpleTest(mathsOperationsClient_3);
             mathsOperationsClient_3.Close();
+
+
+
+
+            Console.WriteLine(" MathsOperations Client pour RestEndPnt1 ");
+            Console.WriteLine("REST Call : Add (8 + 12)");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost:8733/Design_Time_Addresses/MathsLibrary/MathsOperations/Rest/Add?x=8&y=12");
+            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+            Stream responseStream = response.GetResponseStream();
+            StreamReader readerStream = new StreamReader(responseStream, System.Text.Encoding.GetEncoding("utf-8"));
+            string responseString = readerStream.ReadToEnd();
+            readerStream.Close();
+            Console.WriteLine(responseString);
 
             Console.ReadLine();
         }
